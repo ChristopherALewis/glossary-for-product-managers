@@ -13,6 +13,8 @@ Agile: Agile product management is based on gathering customer and user feedback
 
 Scrum: a method within Agile where a development team works together to reach a goal, often with physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members. There’s hundreds of Agile and Scrum tools out there, many of which may sound familiar.
 
+Kankan: Matches the amount of work in progress to the team's capacity, kanban gives teams more flexible planning options, faster output, clear focus, and transparency throughout the development cycle. 
+
 Sprint: a cycle of development, often ranging from a week to a month, defined to complete a desired milestone.
 
 User story: a tool used in Agile environments to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. They typically follow a simple template: As a <type of user>, I want <some goal> so that <some reason>.
