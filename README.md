@@ -2,6 +2,8 @@
 
 This is desinged to be an open-sourced jargon buster for Product Managers, or anyone building technology products.
 
+Feel free to contribute by opning an issue.
+
 This is all licensed under the terms of the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
 Based upon the excellent post by [Alpha UX](https://medium.com/the-innovator/glossary-of-product-management-acronyms-and-jargon-b371b7daa9aa).
