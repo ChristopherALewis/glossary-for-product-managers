@@ -25,7 +25,7 @@ Sample definition
 
 Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://www.cio.co.uk/insight/strategy/introduction-wardley-value-chain-mapping-3604565/) on how to map out a business value chain visually so that one can have an understanding of ones situational aweress. 
 
-*See also: [Technology adoption lifecycle]().*
+*See also: Technology adoption lifecycle*
 
 
 ##Engineering
