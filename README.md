@@ -1,12 +1,32 @@
 #A Glossary for Product Managers
 
-This is desinged to be an open-sourced jargon buster for Product Managers, or anyone building technology products.
+This is designed to be an open-sourced jargon buster for Product Managers, or anyone building technology products.
 
-Feel free to contribute by opning an issue.
+Feel free to contribute by opening an issue, this is a collaborative process, so dig in and try to help out! There's tons of terms missing, just waiting for you to come in and save the day.
+
+So send us a pull request, please!
+
+The base for this project was the excellent post by [Alpha UX](https://medium.com/the-innovator/glossary-of-product-management-acronyms-and-jargon-b371b7daa9aa) and was inspired by [Alex Gaynor's](https://github.com/alex) wonderful [what happens when](https://github.com/alex/what-happens-when).
 
 This is all licensed under the terms of the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-Based upon the excellent post by [Alpha UX](https://medium.com/the-innovator/glossary-of-product-management-acronyms-and-jargon-b371b7daa9aa).
+###What to include in a definition
+
+* **The phrase** plus any related, often conflated term meaning the same or highly similar
+
+* **Attribution**, if this is a phrase that has been coined by a person or company then make sure you give credit to the creator.
+  
+	*  e.g "Crossing the chasm" You should reference ideally with an inline link to the originating text, if one is available.
+
+* **The definition** What it is you are describing.
+  * Please try and stick to simple language, and if you use jargon to define jargon, please make sure that this accompanying definition is also in the guide and that you link to it.
+
+Sample definition
+
+Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://www.cio.co.uk/insight/strategy/introduction-wardley-value-chain-mapping-3604565/) on how to map out a business value chain visually so that one can have an understanding of ones situational aweress. 
+
+*See also: [Technology adoption lifecycle]().*
+
 
 ##Engineering
 Agile: Agile product management is based on gathering customer and user feedback on prototypes and early product developments, and adapting accordingly. It helps product teams reduce waste through iterative work cadences.
@@ -78,6 +98,8 @@ CX: customer experience — the interaction between a product and a customer
 USP: unique selling proposition — the main reason why a user chooses one product over another.
 
 Value proposition: short for value proposition, this term describes the user’s primary motivation for using the product or the main benefit they receive from it.
+
+Value Chain: A set of activities that a firm operating in a specific industry performs in order to deliver a valuable product or service for the market.
 
 Pivot: People use pivot in so many different contexts I don’t think anyone really knows what it is anymore. It originally referred to a small change in a company’s business model or product in order to meet customer needs, but now often refers to starting a new product all together.
 
