@@ -27,11 +27,9 @@ Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://w
 
 *See also: Technology adoption lifecycle*
 
+Table of contents
 <!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [A Glossary for Product Managers](#a-glossary-for-product-managers)
-		- [What to include in a definition](#what-to-include-in-a-definition)
-	- [Engineering](#engineering)
+- [Engineering](#engineering)
 		- [Agile](#agile)
 		- [Scrum](#scrum)
 		- [Kankan](#kankan)
@@ -77,9 +75,7 @@ Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://w
 		- [Unicorn](#unicorn)
 <!-- /TOC -->
 
-<br>
 ##Engineering
-<br>
 
 ###Agile
 Agile product management is based on gathering customer and user feedback on prototypes and early product developments, and adapting accordingly. It helps product teams reduce waste through iterative work cadences.
