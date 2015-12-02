@@ -23,7 +23,7 @@ This is all licensed under the terms of the [Creative Commons Zero license](http
 
 Sample definition
 
-Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://www.cio.co.uk/insight/strategy/introduction-wardley-value-chain-mapping-3604565/) on how to map out a business value chain visually so that one can have an understanding of ones situational aweress.
+Wardly Map, Mapping: The technique first proposed by [Simon Wardley](http://www.cio.co.uk/insight/strategy/introduction-wardley-value-chain-mapping-3604565/) on how to map out a business value chain visually so that one can have an understanding of ones situational awareness.
 [980[}]]
 *See also: Technology adoption lifecycle*
 
@@ -88,7 +88,7 @@ Agile product management is based on gathering customer and user feedback on pro
 A method within Agile where a development team works together to reach a goal, often with physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members. There’s hundreds of Agile and Scrum tools out there, many of which may sound familiar.
 
 ###Kankan
-Matches the amount of work in progress to the team's capacity, kanban gives teams more flexible planning options, faster output, clear focus, and transparency throughout the development cycle.
+Matches the amount of work in progress to the team's capacity, Kanban gives teams more flexible planning options, faster output, clear focus, and transparency throughout the development cycle.
 
 ###Sprint
 A cycle of development, often ranging from a week to a month, defined to complete a desired milestone.
@@ -104,7 +104,7 @@ Application program interface is a set of routines, protocols, and tools for bui
 <br>
 
 ###VOC
-Voice of the customer is a market research technique that produces a detailed set of customer wants and needs, organised into a hierarchical structure, and then prioritised in terms of relative importance and satisfaction with current alternatives.
+Voice of the customer is a market research technique that produces a detailed set of customer wants and needs, organized into a hierarchical structure, and then prioritized in terms of relative importance and satisfaction with current alternatives.
 
 ###Design Thinking
 A customer-focused, prototype-driven process for innovation. Tim Brown of IDEO describes design thinking as “a discipline that uses the designer’s sensibility and methods to match people’s needs with what is technologically feasible and what a viable business strategy can convert into customer value and market opportunity.”
@@ -113,7 +113,7 @@ A customer-focused, prototype-driven process for innovation. Tim Brown of IDEO d
 A model or design replica of a product, used to gather user feedback earlier in the product lifecycle. Mockups are often produced by designers prior to prototype or feature testing.
 
 ###Prototype
-A simulation of functionality or design meant to put testers in the proper mindset to answer questions through behaviour rather than self-reporting. Prototypes are the means by which experiments generate actionable data and provide a framework by which product managers can evaluate and benchmark new product features iteratively. Many tools have been developed to make prototyping accessible to product managers.
+A simulation of functionality or design meant to put testers in the proper mindset to answer questions through behavior rather than self-reporting. Prototypes are the means by which experiments generate actionable data and provide a framework by which product managers can evaluate and benchmark new product features iteratively. Many tools have been developed to make prototyping accessible to product managers.
 
 ###UI
 User interface — the visual dimension of any given product or service, as the user connects to it.
@@ -134,8 +134,8 @@ A qualitative data gathering session that makes use of live interaction to follo
 ###Unmoderated User Test
 A user test with no interaction between the test team and the user. Results in video clips of the user’s screen, audio recording of the user’s voice, and is often tabulated with other user tests to generate quantitative insights.
 
-###Observed behavioural data / Self-reported data
-Data derived from behaviour reflects unconscious or unintentional biases that may be excluded when a tester is asked to self-report their experience using a mockup, prototype or product.
+###Observed behavioral data / Self-reported data
+Data derived from behavior reflects unconscious or unintentional biases that may be excluded when a tester is asked to self-report their experience using a mockup, prototype or product.
 
 ###Perception of value
 A measure of a tester’s experience viewing a mockup, reflects how the product concept translates into value in the user’s mind.
@@ -181,7 +181,7 @@ A core component of Lean, an MVP is a stripped down version of a product launche
 A tactic used to quickly gather user insights. Surveys, landing page split tests, and interviews are examples of experiments.
 
 ###Test
-Mor infor required
+More info required
 
 ###Stimulus / test criteria
 The critical aspect of the experiment the user must view in order to measure reaction. If the stimulus or test criteria is buried too deep within the mockup or is too hard to find, the user may not know what they are supposed to be reacting to.
@@ -202,7 +202,7 @@ A set of activities that a firm operating in a specific industry performs in ord
 People use pivot in so many different contexts I don’t think anyone really knows what it is anymore. It originally referred to a small change in a company’s business model or product in order to meet customer needs, but now often refers to starting a new product all together.
 
 ###Incubator
-An organisation that helps startups and entrepreneurs to grow by providing services such as training and office space.
+An organization that helps startups and entrepreneurs to grow by providing services such as training and office space.
 
 ###Innovation lab / skunk works
 Typically started within a large company, an innovation lab is a small team of employees tasked with building new products and businesses.
