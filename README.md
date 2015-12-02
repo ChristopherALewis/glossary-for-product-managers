@@ -24,12 +24,14 @@ This is all licensed under the terms of the [Creative Commons Zero license](http
 Sample definition
 
 Wardly Map, Mapping: The techniquique first proposed by [Simon Wardley](http://www.cio.co.uk/insight/strategy/introduction-wardley-value-chain-mapping-3604565/) on how to map out a business value chain visually so that one can have an understanding of ones situational aweress.
-
+[980[}]]
 *See also: Technology adoption lifecycle*
 
-Table of contents
 <!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [Engineering](#engineering)
+
+- [A Glossary for Product Managers](#a-glossary-for-product-managers)
+		- [What to include in a definition](#what-to-include-in-a-definition)
+	- [Engineering](#engineering)
 		- [Agile](#agile)
 		- [Scrum](#scrum)
 		- [Kankan](#kankan)
@@ -75,7 +77,9 @@ Table of contents
 		- [Unicorn](#unicorn)
 <!-- /TOC -->
 
+<br>
 ##Engineering
+<br>
 
 ###Agile
 Agile product management is based on gathering customer and user feedback on prototypes and early product developments, and adapting accordingly. It helps product teams reduce waste through iterative work cadences.
